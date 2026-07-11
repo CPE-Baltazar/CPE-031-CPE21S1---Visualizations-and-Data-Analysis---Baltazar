@@ -26,6 +26,10 @@ This repository was created as a requirement for the course CPE 031 - Visualizat
 
 ---
 
+## Skills
+- Basic C++
+- Basic Python
+
 ## Repository Contents
 
 - README.md
