@@ -10,6 +10,7 @@
 | Program | Bachelor of Science in Computer Engineering |
 | Course | CPE 031 - Visualizations and Data Analysis |
 | Section | CPE21S1 |
+| Instructor | Engr. Jimlord Quejado |
 | School | Technological Institute of the Philippines - Quezon City |
 ---
 
