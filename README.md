@@ -7,3 +7,5 @@
 
 ## Description
 - This repository is created for submissions and requirements in CPE 031 - Visualizations and Data Analysis
+
+## "Live life to the fullest, and focus on the positive."
