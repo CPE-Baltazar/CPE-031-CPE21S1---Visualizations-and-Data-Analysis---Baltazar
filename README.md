@@ -1,4 +1,4 @@
-# Hi, I'm Kenji <3
+# Hello, I am Kenji Baltazar
 
 ## About Me
 -I am a CPE student currently enrolled in CPE 031
