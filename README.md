@@ -25,3 +25,9 @@ Hello! My name is Kenji Baltazar, and I am a student at the Technological Instit
 This repository was created as a requirement for the course CPE 031 - Visualizations and Data Analysis. 
 
 ---
+
+## Repository Contents
+
+README.md
+
+---
