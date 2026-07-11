@@ -1,5 +1,7 @@
 # CPE 031-CPE21S1 - Visualizations and Data Analysis - Baltazar
 
+--- 
+
 ## Description
 
 This repository was created as a requirement for the course CPE 031 - Visualizations and Data Analysis. 
