@@ -1,4 +1,4 @@
-# CPE 031-CPE21S1 - Visualizations and Data Analysis
+# CPE 031-CPE21S1 - Visualizations and Data Analysis - Baltazar
 
 ## Student Information
 <img align="left" src="https://github.com/user-attachments/assets/3e7027e0-6450-4e7b-a648-c61b299c7ade">
