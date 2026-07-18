@@ -14,13 +14,7 @@
 | School | Technological Institute of the Philippines - Quezon City |
 ---
 
-## About Me
-
-Hello! My name is Kenji Baltazar, and I am a student at the Technological Institute of the Philippines - Quezon City. Currently learning about programming languages such as Python and C++, and I am always eager to improve my skills regarding programming and robotics.
-
----
-
-## Description
+## Repository Description
 
 This repository was created as a requirement for the course CPE 031 - Visualizations and Data Analysis. 
 
