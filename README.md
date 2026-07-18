@@ -14,12 +14,6 @@
 | School | Technological Institute of the Philippines - Quezon City |
 ---
 
-## Skills
-- Basic C++
-- Basic Python
-
----
-
 ## Repository Description
 
 This repository was created as a requirement for the course CPE 031 - Visualizations and Data Analysis. 
@@ -32,3 +26,4 @@ This repository was created as a requirement for the course CPE 031 - Visualizat
 - HOA1_CPE031_Baltazar.pdf
 
 ---
+![Skills](https://skillicons.dev/icons?i=python,cpp) 
