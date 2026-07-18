@@ -1,4 +1,4 @@
-# CPE 031-CPE21S1 - Visualizations and Data Analysis - Baltazar
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CPE%20031%20-%20Visualizations%20and%20Data%20Analysis&section=header&fontSize=40&fontColor=black&animation=twinkling&fontAlignY=42)
 
 ## Student Information
 <img align="left" src="https://github.com/user-attachments/assets/3e7027e0-6450-4e7b-a648-c61b299c7ade">
