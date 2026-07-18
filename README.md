@@ -30,4 +30,6 @@ This repository was created as a requirement for the course CPE 031 - Visualizat
 ![Streak](https://streak-stats.demolab.com?user=yourusername)
 
 ---
+Programming Language
+
 ![Skills](https://skillicons.dev/icons?i=python,cpp) 
