@@ -27,7 +27,7 @@ This repository was created as a requirement for the course CPE 031 - Visualizat
 
 ---
 
-![Build](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml) 
+![Streak](https://streak-stats.demolab.com?user=yourusername)
 
 ---
 ![Skills](https://skillicons.dev/icons?i=python,cpp) 
